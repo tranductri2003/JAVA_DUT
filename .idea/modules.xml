@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AWT-SWING/AWT-SWING.iml" filepath="$PROJECT_DIR$/AWT-SWING/AWT-SWING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bach Khoa.iml" filepath="$PROJECT_DIR$/Bach Khoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCSDL/TestCSDL.iml" filepath="$PROJECT_DIR$/TestCSDL/TestCSDL.iml" />
+    </modules>
+  </component>
+</project>

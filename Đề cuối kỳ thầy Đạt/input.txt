@@ -1,0 +1,4 @@
+102210096;Tran Duc Tri;16/07/2003;1
+102210247;Le Van Tien Dat;2003/12/19;1
+102210302;Pham Nguyen Anh Phat;09/04/2003;1
+102210299;Tran Thi Huynh Linh;2003/2/18;0

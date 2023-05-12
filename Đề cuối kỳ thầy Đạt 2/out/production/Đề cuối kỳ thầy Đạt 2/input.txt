@@ -1,0 +1,9 @@
+1111;Nguyen Van A;100000,0
+2222;Nguyen Thi B;200000,0
+3333;Tran Duc T;300000.0
+4444;Nguyen Vu Khanh U;400000.0
+5555;Le Van Tien Dat;3232332,0
+6666;Tran Thi Huynh L;300000,0
+7777;Vu Thanh T;300000,0
+8888;Dang Hoang Nguyen;10000.0
+9999;Phung Thi A;1000000.0
